@@ -159,6 +159,7 @@ h3 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 12px;
 	bottom: 0;
+	position: relative;
 }
 
 #footerp, #footerc {
