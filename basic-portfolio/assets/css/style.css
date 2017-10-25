@@ -149,7 +149,7 @@ h3 {
 }
 
 #footer {
-	background: #666666;
+		background: #666666;
 	padding: 20px;
 	clear: both;
 	text-align: center;
@@ -159,7 +159,6 @@ h3 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 12px;
 	bottom: 0;
-	margin-bottom: 0px;
 }
 
 #footerp, #footerc {
