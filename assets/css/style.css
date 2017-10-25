@@ -1,0 +1,243 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+}
+
+#about-me {
+	width: 650px;
+	background: #ffffff;
+	float: left;
+	margin: 40px 20px 40px 150px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 40px;
+	color: #777777;
+	border: 1px solid #dddddd;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	padding-left: 20px;
+}
+
+#contact-me {
+	width: 270px;
+	background: #ffffff;
+	float: left;
+	margin-top: 40px;
+	padding: 10px;
+	height: 200px;
+	margin-left: 100px;
+	border: 1px solid #dddddd;
+}
+
+input[type=text], textarea {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize:vertical;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+form {
+	padding: 20px;
+}
+
+input[type=submit] {
+	background-color: #4aaaa5;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#about-image {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+	padding-left: 5px;
+}
+
+header {
+	background: #ffffff;
+	border-bottom: 2px solid #cccccc;
+}
+
+header ul {
+	margin: 0px;
+}
+
+header li {
+	float: left;
+	display: inline;
+	padding-right: 60px;
+}
+
+nav {
+	float: right;
+	margin-top: 10px;
+	position: absolute;
+	right: 150px;
+}
+
+h1 {
+	background: #4aaaa5;
+	padding: 20px;
+	width: 150px;
+	margin-bottom: 0px;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 30px;
+	margin-left: 150px;
+	margin-top: 0px;
+
+}
+
+h2 {
+	color: #4aaaa5;
+	border-bottom: 3px solid #dbdbdb;
+	margin: 20px;
+	padding: 20px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 24px;
+}
+
+h3 {
+	color:#4aaaa5;
+	text-align: center;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border-bottom: 3px solid #dbdbdb;
+	margin: 20px;
+	padding: 10px;
+}
+
+#redirect {
+	font-size: 18px;
+
+}
+
+#icons {
+	margin-left: 30px;
+	padding: 10px;
+}
+
+#github {
+	position: relative;
+	left: -20px;
+} 
+
+#linked {
+	position: relative;
+	left: -6px;
+}
+
+#stack {
+	width: 64px;
+	height: 64px;
+	position: relative;
+	left: 2px;
+}
+
+#footer {
+	background: #666666;
+	padding: 20px;
+	clear: both;
+	text-align: center;
+	width: 100%;
+	border-top: 5px solid #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 12px;
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 0px;
+}
+
+#footerp, #footerc {
+	background: #666666;
+	padding: 20px;
+	clear: both;
+	text-align: center;
+	width: 100%;
+	border-top: 5px solid #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 12px;
+	bottom: 0;
+}
+
+#culture, #design, #food, #pets, #water {
+	width: 320px;
+	height: 240px;
+	padding: 20px;
+	margin: 0 auto;
+	box-sizing: border-box;
+	resize: vertical;
+}
+
+#Hangman, #RPG, #Trivia, #RIW, #RPS {
+	background: #4aaaa5;
+	color: white;
+	font-size: 18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#Hangman {
+	position: absolute;
+	padding-left: 97px;
+	padding-right: 105px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	top: 390px;
+	left: 171px;
+}
+
+#RPG {
+	position: absolute;
+	padding-left: 90px;
+	padding-right: 97px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	top: 390px;
+	left: 495px;
+}
+
+#Trivia {
+	position: absolute;
+	padding-left: 95px;
+	padding-right: 88px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	top: 645px;
+	left: 171px;
+}
+
+#RIW {
+	position: absolute;
+	padding-left: 60px;
+	padding-right: 61px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	top: 645px;
+	left :495px;
+}
+
+#RPS {
+	position: absolute;
+	padding-left: 52px;
+	padding-right: 61px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	top: 900px;
+	left: 171px;
+}
